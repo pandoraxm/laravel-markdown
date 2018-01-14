@@ -4,9 +4,9 @@
 
 # Screenshots
 
-![图1](https://wx1.sinaimg.cn/large/658dc60bgy1fng6cx29e0j20ky0li417.jpg)
+![图1](http://wx1.sinaimg.cn/large/658dc60bgy1fng6cx29e0j20ky0li417.jpg)
 
-![图2](https://wx2.sinaimg.cn/large/658dc60bgy1fng6cx8cckj20t90ju40v.jpg)
+![图2](http://wx2.sinaimg.cn/large/658dc60bgy1fng6cx8cckj20t90ju40v.jpg)
 
 # Installation
 
